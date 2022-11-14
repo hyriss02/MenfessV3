@@ -5,8 +5,7 @@
 var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
-return`━━━❲ 𝙂𝙐𝙍𝘽𝙊𝙏-𝙈𝘿 ❳━━━
-┏━━━━━━━━━━━━━
+return`━━━❲ RISS BOTZ-MD ┏━━━━━━━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃▤ ID : @${sender.split('@')[0]}
 ┃▤ Nama : ${namenya}
@@ -723,13 +722,13 @@ return`──「 *MENU DONATE* 」──
 
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
-*Payment Ovo*
-Number: 085789004732
-A/N: LEXXY STORE
+*Payment dana*
+Number: 081256023873
+A/N: call me riss
 
-*Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+*Payment pulsa*
+Number: 081256023873
+A/N: Call me riss
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +739,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
+ • *Nama:* Call me riss
  • *Umur:* 18 tahun
  • *Hoby:* Turu/Game
- • *Askot:* Palembang
+ • *Askot:* Bumi
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ • *Whatsapp:* 081256023873
+ • *Youtube:* Riss
+ • *Github:* rise
  `
 }
